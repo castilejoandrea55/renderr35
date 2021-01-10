@@ -1,0 +1,4 @@
+baseURL = "https://pianosheetmusicatronges.vercel.app"
+languageCode = "en-us"
+title = "Piano Sheet Music Free"
+theme = "hugo-theme-minos"
